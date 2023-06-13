@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2bfe0b8.css",
+    "main.js": "/static/js/main.f3e81570.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/cataloguedeformation2023.pdf": "/static/media/cataloguedeformation2023.f9f31cf77708fd8096c5.pdf",
+    "static/media/formation.JPG": "/static/media/formation.241b4bcfa2c4a6e1be48.JPG",
+    "static/media/home.PNG": "/static/media/home.dc538c617c80fdf2eb51.PNG",
+    "static/media/about.jpg": "/static/media/about.7a2997abc25ab6b6d0e1.jpg",
+    "static/media/robotics.PNG": "/static/media/robotics.70c6a4f11cb134c298a6.PNG",
+    "static/media/bgscaime.PNG": "/static/media/bgscaime.05bd7b93d05e21b9d7e3.PNG",
+    "static/media/bgsiemens.PNG": "/static/media/bgsiemens.d058a2edd5153e646ad0.PNG",
+    "static/media/electronics.PNG": "/static/media/electronics.4d33dce06fa441e0dfaa.PNG",
+    "static/media/bgabb.PNG": "/static/media/bgabb.f367788626ba24ff570b.PNG",
+    "static/media/bgziemmer.PNG": "/static/media/bgziemmer.87535a57572138012d58.PNG",
+    "static/media/maintenance.jpg": "/static/media/maintenance.a9257e93b433d06c2c64.jpg",
+    "static/media/iqnet-logo.png": "/static/media/iqnet-logo.322aadaa0ec6d56e91ec.png",
+    "static/media/bgkraftpowercon.PNG": "/static/media/bgkraftpowercon.3613fc38cd7f43c36738.PNG",
+    "static/media/Automatisme.jpg": "/static/media/Automatisme.79c690e10d0a383f8391.jpg",
+    "static/media/LinkedIn.png": "/static/media/LinkedIn.9dfdc9701c0e1eb622bb.png",
+    "static/media/formation.png": "/static/media/formation.32b5c2e3e4112bb758ac.png",
+    "static/media/mecanique.png": "/static/media/mecanique.cd0cfb08c0402d9fa768.png",
+    "static/media/automatisme.png": "/static/media/automatisme.22505eb89e338f146dcf.png",
+    "static/media/maintenance.png": "/static/media/maintenance.74632820b13c8a69cb79.png",
+    "static/media/kraft.PNG": "/static/media/kraft.2a1d0748cdd1f669b919.PNG",
+    "static/media/abb.png": "/static/media/abb.4ecb83457407f47681db.png",
+    "static/media/robotique.png": "/static/media/robotique.554327394bc10ab39f6a.png",
+    "static/media/zimmer.png": "/static/media/zimmer.c2f8dbcc670d063215c0.png",
+    "static/media/elec.png": "/static/media/elec.609afba5c6a02aa76171.png",
+    "static/media/ABB.PNG": "/static/media/ABB.860abc4aeb2f7df9f245.PNG",
+    "static/media/dqs.png": "/static/media/dqs.6aa19216d8e1e5e64ee9.png",
+    "static/media/siemens.png": "/static/media/siemens.73f00ec321424cded16e.png",
+    "index.html": "/index.html",
+    "main.a2bfe0b8.css.map": "/static/css/main.a2bfe0b8.css.map",
+    "main.f3e81570.js.map": "/static/js/main.f3e81570.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2bfe0b8.css",
+    "static/js/main.f3e81570.js"
+  ]
+}
